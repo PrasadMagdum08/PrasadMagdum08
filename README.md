@@ -1,6 +1,3 @@
-  # Hello There! I'm Prasad Magdum 🙋🏼‍♂️
-<center>This is me</center>
+# Hello There! I'm Prasad Magdum 🙋🏼‍♂️
 
-<div style="text-align: center;">
-Your centered text here.
-</div>
+
