@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Magdum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Data Analytics**
 
